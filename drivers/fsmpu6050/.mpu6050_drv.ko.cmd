@@ -1,0 +1,1 @@
+cmd_/home/chen/securitymonitor/drivers/fsmpu6050/mpu6050_drv.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/chen/Linux_4412/kernel/linux-3.14/scripts/module-common.lds --build-id  -o /home/chen/securitymonitor/drivers/fsmpu6050/mpu6050_drv.ko /home/chen/securitymonitor/drivers/fsmpu6050/mpu6050_drv.o /home/chen/securitymonitor/drivers/fsmpu6050/mpu6050_drv.mod.o

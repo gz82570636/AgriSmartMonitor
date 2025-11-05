@@ -1,0 +1,1 @@
+cmd_/home/chen/securitymonitor/drivers/fsled/demoarm.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/chen/Linux_4412/kernel/linux-3.14/scripts/module-common.lds --build-id  -o /home/chen/securitymonitor/drivers/fsled/demoarm.ko /home/chen/securitymonitor/drivers/fsled/demoarm.o /home/chen/securitymonitor/drivers/fsled/demoarm.mod.o
