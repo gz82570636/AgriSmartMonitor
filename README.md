@@ -86,7 +86,9 @@ AgriSmartMonitor是基于Linux C和HTML界面编程，通过zigbee作为终端�
 5. 再将我代码中 **/stage_storage/monitor_obj**（提起所有线程）在根目录下进行运行即可
 6. 最后可以通过网页访问开发板的ip进行访问**boa服务器**
 
-‍
+# 实验现象视屏
+b站：【智能农业监控系统-陈】 https://www.bilibili.com/video/BV1N1kBBsE4X/?share_source=copy_web&vd_source=f04f562e6153e9553546ba49a0f62893
+
 
 # 更新计划
 
