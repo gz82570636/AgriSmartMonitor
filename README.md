@@ -39,7 +39,7 @@ AgriSmartMonitor是基于Linux C和HTML界面编程，通过zigbee作为终端�
 
 ## 软件层
 
-* 开发平台： Ubuntu14.04   vs2012  vs2017。
+* 开发平台： ubuntu20.04  vscode2025。
 * 开发环境：  linux3.14.0、uboot2013.01、gcc4.6.4。
 * 通信协议：单总线、I2C、串口、ZigBee、http协议。
 * 服务端：Boa Web 服务器（轻量级 HTTP 服务）、mjpg-streamer（摄像头视频流服务）。
