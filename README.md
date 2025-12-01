@@ -1,4 +1,4 @@
-# AgriSmartMonitor - 智能农业监控系统
+# AgriSmartMonitor - 智能农业安防监控系统
 
 # 项目简介
 
